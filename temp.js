@@ -13,7 +13,7 @@ collectionBook.prepend(book[1]);
 collectionBook.append(book[2]);
 book[3].before(book[4]);
 
-document.body.style.background = 'url(../image/adv.jpg) center / cover no-repeat';
+document.body.style.background = 'url(../image/you-dont-know-js.jpg) center / cover no-repeat';
 
 bookTitle[4].textContent = 'Книга 3. this и Прототипы Объектов';
 
